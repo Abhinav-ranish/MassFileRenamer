@@ -1,6 +1,10 @@
 # Python-Ransomware
 Made With 💖 and Py
+
 ### <<< Please dont copy without Credits >>> @cc insta- abhinav.ranish or github - abhinav-ranish
+
+#### Use For Educational Purposes Only.. plz
+
 
 ## Youtube Video -
 [![Alt text](https://img.youtube.com/vi/JOJQz7Ic1jQ/0.jpg)](https://www.youtube.com/watch?v=JOJQz7Ic1jQ)
@@ -24,7 +28,6 @@ Join Mega - https://mega.nz/aff=ir6YlbWlUts
 #### [+] Changes extenstion to lolabhiq.
 #### [+] Quick Speedy and Destructive.
 
-### Use For Educational Purposes Only.. pls
 
 
 ## Usage:
