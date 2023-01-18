@@ -1,5 +1,7 @@
 # Python-Ransomware
-Made With 💖 and Py
+Made With 💖 and Java & Py
+
+Java one works on point.
 
 ### <<< Please dont copy without Credits >>> @cc insta- abhinav.ranish or github - abhinav-ranish
 
