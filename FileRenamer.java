@@ -22,7 +22,7 @@ public class FileRenamer {
             public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) throws IOException {
                 Path targetFile = destinationFolder.resolve(sourceFolder.relativize(file));
                 String fileName = targetFile.getFileName().toString();
-                String newFileName = fileName.substring(0, fileName.lastIndexOf(".")) + ".lolabhiq";
+                String newFileName = fileName.substring(0, fileName.lastIndexOf(".")) + ".lgbtq";
                 Files.copy(file, targetFile.resolveSibling(newFileName), StandardCopyOption.REPLACE_EXISTING);
                 return FileVisitResult.CONTINUE;
             }
