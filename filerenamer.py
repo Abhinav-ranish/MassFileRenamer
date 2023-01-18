@@ -77,7 +77,6 @@ if pog == "Sorry" or "Soewwy" or "Sory" or "Sorrrry" or ":(" or "Sowwy":
     print("Your Files are located at " + files)
 else :
     print("Your Trash. Im Toxic :)")
-    print("Better Getting Hacked :)")
     
 op =  input("Click Enter to close\n")
 os.system("cls")
